@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AgentFrameworkExample/AgentFrameworkExample.csproj" Id="3779def1-ea50-4245-a3f4-d40e4d29c456" />
+  <Project Path="DirectProviderSDKExample/DirectProviderSDKExample.csproj" Id="cffb46c8-2dab-45fb-ac3d-0fdf77fc17de" />
+  <Project Path="ExtensionAI.UseFunctionInvocation/ExtensionAI.UseFunctionInvocation.csproj" />
+  <Project Path="SemanticKernelToolingExample/SemanticKernelToolingExample.csproj" />
+</Solution>
